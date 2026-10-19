@@ -83,12 +83,12 @@ Bab implementasi laporan membahas konsep dan visualisasi enam algoritma berikut.
 
 Teknologi di atas merupakan konsep yang dibahas atau berkaitan dengan materi laporan, bukan pernyataan bahwa seluruhnya telah diimplementasikan sebagai program dalam repository ini.
 
-## 📚 Referensi
+## Referensi
 
 1. Müller, A. C., & Guido, S. (2017). *Introduction to Machine Learning with Python: A Guide for Data Scientists*. O'Reilly Media.
 2. Materi kegiatan *Informatics Practitioner Lecture Series: Connecting Academic Knowledge with Industry and Global Technology* (2026), sebagaimana dibahas dalam laporan.
 
-## 📝 Kesimpulan
+## Kesimpulan
 
 Enam webinar memberikan gambaran mengenai penerapan teknologi informatika untuk menyelesaikan permasalahan nyata melalui analisis data, Machine Learning, HPC, GIS, visualisasi data, dan citra satelit. Pembelajaran tersebut menunjukkan bahwa keberhasilan penerapan Machine Learning tidak hanya ditentukan oleh algoritma, tetapi juga oleh kualitas data, proses evaluasi, penyajian hasil, serta pertimbangan etika dan tanggung jawab.
 
