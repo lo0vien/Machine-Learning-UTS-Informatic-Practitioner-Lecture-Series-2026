@@ -86,8 +86,7 @@ Teknologi di atas merupakan konsep yang dibahas atau berkaitan dengan materi lap
 ## 📚 Referensi
 
 1. Müller, A. C., & Guido, S. (2017). *Introduction to Machine Learning with Python: A Guide for Data Scientists*. O'Reilly Media.
-2. Müller, A. C. (n.d.). *Introduction to Machine Learning with Python: Preprocessing and Unsupervised Learning Notebook*. GitHub. https://github.com/amueller/introduction_to_ml_with_python
-3. Materi kegiatan *Informatics Practitioner Lecture Series: Connecting Academic Knowledge with Industry and Global Technology* (2026), sebagaimana dibahas dalam laporan.
+2. Materi kegiatan *Informatics Practitioner Lecture Series: Connecting Academic Knowledge with Industry and Global Technology* (2026), sebagaimana dibahas dalam laporan.
 
 ## 📝 Kesimpulan
 
